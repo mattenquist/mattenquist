@@ -32,8 +32,8 @@ Programming knowledge was mostly received through education in my two-year and f
 - **Technical:** Windows 7-11x, OSX, Android, Linux, Ubuntu, Networking, Troubleshooting
 - **Business:** Project Management, Time Management, Cloud Computing, Quality Assurance
 - **Languages:** SQL, HTML, CSS, Python, JavaScript, Java OOP, MySQL, PHP, C++, Bash, PowerShell
-- **Software:** AWS, ServiceNow, JIRA, Office 365, MS Project, Wordpress, Wireshark, Nmap, SharePoint, SSRS, Visio, CRM, Blender, Autodesk Maya and 3ds Max,
-                Active Directory, Mincron, SysAid, SEO, Confluence, Zoom, MS Teams, Cisco WebEx, Adobe Creative Suite, Affinity "Designer, Photo, and Publisher"
+- **Software:** AWS, ServiceNow, JIRA, Office 365, O365 Admin, MS Project, Wordpress, Wireshark, Nmap, SharePoint, SSRS, Visio, CRM, Blender, Autodesk Maya and 3ds Max,
+                Blender, Zbrush, Marvelous Designer, Active Directory, Mitel Connect Director, ManageEngine, Mincron, SysAid, SEO, Confluence, Zoom, Teams, Cisco WebEx,                     Adobe Creative Suite, MSP, Affinity "Designer, Photo, and Publisher"
 
 ### 🎓EDUCATION
 - **Bachelor's of Science** @ Southern New Hampshire University, Class of 2022
